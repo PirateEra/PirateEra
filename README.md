@@ -40,7 +40,6 @@ I am a game developer and AI student passionate about the full pipeline of game 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="Javascript">
-<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)" alt="Json">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PhP">
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="Html">
 <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="Css">
@@ -48,6 +47,7 @@ I am a game developer and AI student passionate about the full pipeline of game 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)" alt="Json">
 
 <br />
 
