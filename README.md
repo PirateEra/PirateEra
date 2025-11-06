@@ -3,9 +3,11 @@
 <h1>Hi, I am David Werkhoven 👋</h1>
 
 <p>
-I am a game developer and <strong>MSc Artificial Intelligence student</strong> at the University of Amsterdam.
+Game developer and <strong>MSc Artificial Intelligence student</strong> at the University of Amsterdam.
 <br />
-I am a game developer and AI student passionate about the full pipeline of game creation: from game design, 3D modeling, and building Python tools, to analyzing player data with AI.
+Passionate about the full pipeline of game creation: designing game mechanics, 3D modeling, building Python tools, and analyzing player data with AI.
+<br />
+Developer of the MMORPG <em>Pirate-Era</em>, built using Minecraft as its game engine.
 </p>
 
 <p>
