@@ -14,6 +14,9 @@ Developer of the MMORPG <em>Pirate-Era</em>, built using Minecraft as its game e
 <a href="https://www.linkedin.com/in/david-werkhoven-965695270">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
 </a>
+<a href="https://pirateera.github.io/">
+<img src="https://custom-icon-badges.demolab.com/badge/Portfolio-6f42c1?logo=github&logoColor=fff" alt="Portfolio">
+</a>
 </p>
 </div>
 
