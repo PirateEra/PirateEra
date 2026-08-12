@@ -3,7 +3,7 @@
 <h1>Hi, I am David Werkhoven 👋</h1>
 
 <p>
-Game developer and <strong>MSc Artificial Intelligence student</strong> at the University of Amsterdam.
+Game developer and <strong>MSc Artificial Intelligence Graduate</strong> at the University of Amsterdam.
 <br />
 Passionate about the full pipeline of game creation: designing game mechanics, 3D modeling, building Python tools, and analyzing player data with AI.
 <br />
